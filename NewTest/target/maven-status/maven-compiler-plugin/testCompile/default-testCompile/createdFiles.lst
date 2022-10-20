@@ -1,0 +1,3 @@
+PageObjects\sauceDemopageObj.class
+stepDef\sauceDemoStepDef.class
+Runner\testRunner.class
